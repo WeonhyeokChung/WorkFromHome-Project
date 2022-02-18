@@ -1,4 +1,4 @@
-# Notes: This is main analysis file for Work From Home Project. I use causal random forest. 
+# Notes: This is main analysis file for Work From Home Project. I use causal random forest to identify heterogeneity of the policy. 
 # I use data from Bloom et al. (2015, QJE) "Does working from home work? Evidence from a Chinese experiment".
 # For the codes, I borrow Athey and Wager (2019) "Estimating Treatment Effects with Causal Forests: An Application".
 
