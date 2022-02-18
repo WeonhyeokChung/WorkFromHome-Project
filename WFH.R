@@ -1,4 +1,6 @@
-# Notes:
+# Notes: This is main analysis file for Work From Home Project. I use causal random forest. 
+# I use data from Bloom et al. (2015, QJE) "Does working from home work? Evidence from a Chinese experiment".
+# For the codes, I borrow Athey and Wager (2019) "Estimating Treatment Effects with Causal Forests: An Application".
 
 library(grf)
 if(packageVersion("grf") < '0.10.2') {
